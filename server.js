@@ -13,6 +13,6 @@ server.listen(PORT,(err) => {
 
     }
 
-   console.log('Server is listening on port ${PORT}...');
+   console.log(`Server is listening on port ${PORT}...`);
 });
 
